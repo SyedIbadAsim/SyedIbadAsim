@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on projects related to web devlopment, c and c++ projects
 - 📫 How to reach me
 - Linkedin: https://www.linkedin.com/in/syedibadasim
-- Gmail: 10dsyedibadasim@gmail.com 
+- Gmail: 10dsyedibadasim@gmail.com
+- Fun Fact: I am an ambivert.
 <!---
 SyedIbadAsim/SyedIbadAsim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
