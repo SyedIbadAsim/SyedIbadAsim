@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Syed Ibad Asim<br><br>🔭 I'm currently working on SOC Analyst, Cybersecurity, and AI-CYBER related projects.<br><br>👯 I'm looking to collaborate on Open Source, Python, Cybersecurity, and AI-related projects.<br><br>🤝 I'm looking for help with Cloud Technologies, DevOps, and System Design.<br><br>🌱 I'm currently learning Tryhackme cybersecurity101, soc analyst l1 and cyber core concepts<br><br>💬 Ask me about C++, Python, Cybersecurity, Computer Networks, OOP, and Defensive Security.<br><br>⚡ Fun fact: I love building projects that combine security, problem-solving, and real-world impact.
+👋 Hi, I'm Syed Ibad Asim<br><br>🔭 I'm currently learning about SOC Analyst, Cybersecurity, and building AI-CYBER related projects.<br><br>👯 I'm looking to collaborate on Open Source, Python, Cybersecurity, and AI-related projects.<br><br>🤝 I'm looking for help with Cloud Technologies, DevOps, and System Design.<br><br>🌱 I'm currently learning Tryhackme cybersecurity101, soc analyst l1 and cyber core concepts<br><br>💬 Ask me about C++, Python, Cybersecurity, Computer Networks, OOP, and Defensive Security.<br><br>⚡ Fun fact: I love building projects that combine security, problem-solving, and real-world impact.
 
 
 ## 🌐 Socials:
@@ -12,16 +12,7 @@
 ![](https://streak-stats.demolab.com/?user=syedibadasim&theme=shades-of-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=syedibadasim&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=syedibadasim&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=syedibadasim&limit=5&theme=shadow_green&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=syedibadasim&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- End -->
